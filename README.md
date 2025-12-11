@@ -17,7 +17,7 @@ If you don't want to clone this repo to access links in pdfs, you can access lab
 - [Obfuscation of File Extension](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
 - [Exploiting File Upload Race Conditions](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-race-condition)
 
-P.S. Introduction and hints are stored in [labs dir](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities/tree/main/labs)
+P.S. Introduction, examples and hints are stored in [labs dir](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities/tree/main/labs)
 
 
 ### Sources
