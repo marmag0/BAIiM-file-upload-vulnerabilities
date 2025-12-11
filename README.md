@@ -3,7 +3,7 @@ A fast-paced overview of File Upload Vulnerabilities, covering both the theoreti
 
 ### Lab Links
 
-If you don't want to clone this repo to access pdf links, you can access labs directly here (introduction and hints in pdfs):
+If you don't want to clone this repo to access links in pdfs, you can access labs directly here (introduction and hints are stored in [labs dir](https://github.com/marmag0/BAIiM-file-upload-vulnerabilities/tree/main/labs)):
 - [Unrestricted File Upload](https://portswigger.net/web-security/file-upload/lab-file-upload-remote-code-execution-via-web-shell-upload)
 - [Flawed Identification of File Type](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-content-type-restriction-bypass)
 - [Obfuscation of File Extension](https://portswigger.net/web-security/file-upload/lab-file-upload-web-shell-upload-via-obfuscated-file-extension)
