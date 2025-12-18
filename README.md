@@ -25,3 +25,9 @@ P.S. Introduction, examples and hints are stored in [labs dir](https://github.co
 - [PortSwigger Academy](https://portswigger.net/web-security)
 - [PHP Documentatio](https://www.php.net/manual/en/)
 - [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/File_Upload_Cheat_Sheet.html)
+
+
+### Extra
+
+Psst... One of the lab creators is also a **CyberWave** conference organizer. YOU NEED TO CHECK IT OUT!
+[Facebook](https://www.facebook.com/cyberwave.iet/) | [Instagram](https://www.instagram.com/cyberwave.iet/) | [LinkedIn](https://www.linkedin.com/company/cyberwave-iet)
